@@ -1,1 +1,29 @@
+Section 1 : Connaissances générales
+Bases du développement web
+Qu'est-ce que le développement web, et pourquoi est-il essentiel dans le contexte d'Internet ?
+Le développement web, c'est le fait de créer des sites ou des applications qu'on peut utiliser sur Internet. C'est important parce que ça permet de trouver des informations, de communiquer, d'acheter des choses ou de s'amuser en ligne.
 
+Connaissances HTML
+Avez-vous entendu parler de HTML ? Si oui, que signifie HTML et quel est son principal objectif dans le développement web ?
+Oui, HTML veut dire "HyperText Markup Language". C'est comme le squelette d'une page web, il sert à organiser les textes, les images et les liens pour que le navigateur puisse afficher la page correctement.
+
+Section 2 : Familiarité avec CSS
+Compréhension de CSS
+Êtes-vous familier avec CSS ? Si oui, expliquez brièvement à quoi sert CSS dans le développement web.
+Oui, CSS veut dire "Cascading Style Sheets". Il sert à rendre les pages jolies, par exemple en ajoutant des couleurs, en changeant les polices, ou en ajustant les espaces entre les éléments.
+
+Section 3 : JavaScript et son importance
+Introduction à JavaScript
+Avez-vous entendu parler de JavaScript ? Si oui, qu'est-ce que JavaScript et pourquoi est-il crucial pour créer des sites web interactifs ?
+Oui, JavaScript est un langage qui rend les sites web interactifs. Par exemple, il permet de faire bouger des choses sur la page, de cliquer sur des boutons ou de mettre à jour des infos sans recharger la page.
+
+Section 4 : Introduction à React et Node.js
+Connaissance de React et Node.js
+Êtes-vous familier avec React et Node.js ? Si oui, fournissez une brève description de ce à quoi React et Node.js sont généralement utilisés dans le développement web.
+
+React est un outil pour créer des sites ou applications faciles à utiliser et rapides, en construisant chaque partie de la page comme un petit bloc.
+Node.js est utilisé pour faire fonctionner des choses côté serveur, comme gérer des bases de données ou envoyer des réponses rapides aux utilisateurs.
+Section 5 : Question bonus
+Intentions d'apprentissage
+Pourquoi voulez-vous apprendre le développement web, et qu'espérez-vous réaliser en acquérant des compétences en HTML, CSS, JavaScript, React et Node.js ?
+Je veux apprendre le développement web pour créer des sites ou des applications moi-même. J'aimerais pouvoir faire des projets utiles, comme des boutiques en ligne ou des outils pour aider les gens à résoudre des problèmes.
